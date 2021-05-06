@@ -1,8 +1,8 @@
-# Tasks a1, a2, b1 and c solved
+# Tasks a1, a2, b1, c and longestSequence solved
 
 Every task solution does not read from console. And some task inputs are decreased because of unnecessarity
 
-Tests for a1 and a2 available. To test run `npm run test`
+Tests for a1, a2 and longestSequence available. To test run `npm run test`
 
 1. `npm i`
 
