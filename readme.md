@@ -1,4 +1,4 @@
-# Tasks a1, a2, b1, c and longestSequence solved
+# Tasks a1, a2, b1, c, longestSequence and CLUBHOUSE api integration solved
 
 Every task solution does not read from console. And some task inputs are decreased because of unnecessarity
 
